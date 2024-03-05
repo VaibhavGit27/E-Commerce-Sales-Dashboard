@@ -131,13 +131,13 @@ To explore the dashboard, follow these steps:
 
 After analyzing the E-Commerce Sales Dashboard, the following key findings and insights have been derived:
 
-- **Profitability by Quarter**:Analysis indicates that the first quarter emerged as the most profitable period, succeeded by the fourth quarter, followed by the second quarter, with the third quarter exhibiting the least profitability.
-- **State-wise Sales Performance**:State-wise sales analysis reveals Maharashtra as the top-performing state, trailed by Madhya Pradesh and Uttar Pradesh, with Delhi exhibiting comparatively lower sales.
-- **Category Profitability Ranking**:In terms of product categories, the Clothing segment appears to be the most lucrative, followed by Electronics, and Furniture exhibiting relatively lower profitability.
-- **Payment Mode Analysis**:Examination of sales by payment modes indicates Cash on Delivery (COD) as the primary mode, followed by UPI, Debit Card, Credit Card, and EMI, in descending order of sales contribution. 
-- **Sub-category Profitability**:Sub-category profitability analysis reveals Printers as the most profitable category, followed by Bookcases, Sarees, Accessories, and Tables, respectively.
-- **Monthly Sales Performance**:Analysis of sales across months indicates November as the most profitable month, while May exhibits the lowest profitability. 
-- **Top Profitable Customers**:Individual customer profitability analysis highlights Madan Mohan as the top contributor to store profits, followed by Madhav and Shiva.
+- **Profitability by Quarter** : Analysis indicates that the first quarter emerged as the most profitable period, succeeded by the fourth quarter, followed by the second quarter, with the third quarter exhibiting the least profitability.
+- **State-wise Sales Performance** : State-wise sales analysis reveals Maharashtra as the top-performing state, trailed by Madhya Pradesh and Uttar Pradesh, with Delhi exhibiting comparatively lower sales.
+- **Category Profitability Ranking** : In terms of product categories, the Clothing segment appears to be the most lucrative, followed by Electronics, and Furniture exhibiting relatively lower profitability.
+- **Payment Mode Analysis** : Examination of sales by payment modes indicates Cash on Delivery (COD) as the primary mode, followed by UPI, Debit Card, Credit Card, and EMI, in descending order of sales contribution. 
+- **Sub-category Profitability** : Sub-category profitability analysis reveals Printers as the most profitable category, followed by Bookcases, Sarees, Accessories, and Tables, respectively.
+- **Monthly Sales Performance** : Analysis of sales across months indicates November as the most profitable month, while May exhibits the lowest profitability. 
+- **Top Profitable Customers** : Individual customer profitability analysis highlights Madan Mohan as the top contributor to store profits, followed by Madhav and Shiva.
 
 These findings serve as a basis for data-driven decision-making and provide actionable insights for optimizing business operations and maximizing sales performance.
 
